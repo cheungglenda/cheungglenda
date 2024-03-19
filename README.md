@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img src="./media/waving-hand.gif" width="28">Hello!</h1>
 
 <!--
 **cheungglenda/cheungglenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
